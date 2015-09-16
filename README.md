@@ -3,6 +3,7 @@ gulp jade sass coffee
 
 
 项目文件目录
+```
 _
 |-style
 |-script
@@ -17,3 +18,4 @@ _
 |
 |-package.json
  -gulpfile.js
+```
